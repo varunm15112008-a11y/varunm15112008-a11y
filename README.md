@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Varun
 
-<!--
-**varunm15112008-a11y/varunm15112008-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming B.Tech student specializing in **Artificial Intelligence and Data Science**. I am highly motivated by discipline, continuous improvement, and building efficient logic structures. 
 
-Here are some ideas to get you started:
+**What I'm doing right now:**
+* 🔭 I am currently building a strong foundation in **C** and **C++** programming, focusing on core logic and algorithms.
+* 🌱 I am preparing to dive deep into data structures, machine learning, and advanced programming concepts in my upcoming first year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Approach:**
+* ⚡ I thrive on consistency and willpower. I recently maintained a 300-day streak of waking up at 4:00 AM for rigorous academic study, and I apply this exact same discipline to teaching myself how to code. 
+
+**Languages & Tools:**
+* C / C++
