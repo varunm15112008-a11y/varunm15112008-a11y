@@ -10,4 +10,4 @@ I am an incoming B.Tech student specializing in **Artificial Intelligence and Da
 * ⚡ I thrive on consistency and willpower. I recently maintained a 300-day streak of waking up at 5:00 AM for rigorous academic study, and I apply this exact same discipline to teaching myself how to code. 
 
 **Languages & Tools:**
-* C / C++
+* C / C++/python
